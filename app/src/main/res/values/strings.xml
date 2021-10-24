@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pillikan Test</string>
+    <string name="authorization">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="faq">F. A. Q.</string>
+    <string name="company_name">ТОО “Union Service company”, 2021</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
